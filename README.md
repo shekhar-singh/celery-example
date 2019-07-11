@@ -1,4 +1,5 @@
 "# celery-example" 
+With python3 env
 
 Do these in three different terminal tabs
 
